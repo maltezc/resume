@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+## Christopher Maltez
+Berkeley, California | Christopher.maltez@outlook.com | LinkedIn | Github
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Technical Skills
+Languages: Javascript/ES6, TypeScript, Python, CSharp, SQL, Firebase, HTML, CSS,
+Library: React Testing Library, Sass, JQuery, Jest, unittest
+Frameworks / Tools: React, NodeJS, Express, Flask, PostgreSQL
 
-## Available Scripts
+### SOFTWARE ENGINEER EXPERIENCES
+#### Rithm - Software Engineer Internship (last 3 weeks) 	Feb 2023 – March 2023
+[Numbers API](https://github.com/rithmschool/numbers_api_v2) - AGILE - standups etc
+Analyzed avenues for periodic slack messaging and integrated functionality to the project.
+Corresponded with team and project managers for outlining steps for integration and documented integration process. Submitted PRs and assisted in resolving merge conflicts
+Built front end functionality and incorporated data being retrieved from the backend singlehandedly utilizing AJAX requests.
 
-In the project directory, you can run:
+#### Artaa - Software Developer / BIM Lead	August 2021 – November 2022
+Built in-house C# plugins working with Power BI, Data Mining, and Project Reporting Dashboards. Focused on BIM automation and process improvements.
 
-### `npm start`
+#### M3dida - Owner/Founder / Software Developer	April 2020 – August 2021
+Built a variety of Revit / AutoCAD plugins in CSharp focusing on improved BIM automation and streamlining process improvements. Constantly revamped and refactored code base to improve performance metrics resulting in increasing user productivity exponetially all based on customer feedback.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technical Projects
+**ShareBnb** | [Frontend](https://github.com/meyburdj/sharebnb_front) | [Backend](https://github.com/rithmschool/numbers_api_v2) - CoAuthored and built Full stack full stack application for peer-to-peer backyard sharing. Assessed avenues for integrating functionality and Informed team on which avenue to move forward with.
+[**Warbler**](https://github.com/maltezc/warbler) - Created full stack Twitter like clone and integrated functionality for users being able to make post, like a post, and follow others.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Previous Work Experience
+#### BIM Lead + First Employee, Desanoia - August 2021 - Current
+- Worked closely with Owner/Founder to assist clients BIM tasks such as family creation, project tasks, Revit model auditing/troubleshooting, Bluebeam file management, assisting with compiling for deadlines.
+- Worked closely with numerous client teams simultaneously.
+- reated in-house c# plugins working with Power BI, Data Mining, and Project Reporting Dashboards.
 
-### `npm test`
+#### Owner / Founder - M3dida L.L.C. - April 2020 - August 2021 | www.m3dida.com
+- Developing variety of tools to make Revit users more efficient using a combination of Revit, AutoCad, Excel, Unity, mobile platforms, and databases.
+- Tools include a BIM360 Worksharing Monitor Replacement(Sync Manager), and M3dida Portals, which converts 10s or 100s of AutoCAD details to drafting views and 2D CAD plans to 3D Revit elements in seconds, among other process improvement, automation, and Revit model hygiene up-keeping tools.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Job Captain, RMW Architecture and Interiors – March 2019 - April 2020 - Worked closely with principles and project architects developing drawings. - 50,000sf tenant improvement at a San Jose tech company (SD - CA).
+- 7,000sf Contra Costa homeless shelter (SD - DD).
+- 8,000sf San Francisco school renovation.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## EDUCATION
+**Rithm School** - Full Stack Web Development Bootcamp	2023 - San Francisco, CA
+**University of Arizona** - B.S. Degree 	2014 - Tucson, Arizona
