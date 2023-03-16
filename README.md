@@ -47,6 +47,7 @@ Frameworks / Tools: React, NodeJS, Express, Flask, PostgreSQL
 - Created single-page-application frontend using React with protected routes.
 - Designed backend API following RESTful principles using express utilizing middleware and schemas.
 - Implemented authorization/authentication using JSON Web Tokes and encrypted passwords using BCrypt.
+
 #### Warbler - Twitter clone - Full Stack - Flask | Javascript | 90% Test Coverage				Github| Demo
 - Integrated authentication, authorization, and register functionality with Flask sessions, global variables, and local storage.
 - Utilized SQL-Alchemy for CRUD operations and dynamic querying in a many-to-many relational database.
