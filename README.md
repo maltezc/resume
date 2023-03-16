@@ -39,16 +39,16 @@ Frameworks / Tools: React, NodeJS, Express, Flask, PostgreSQL
 
 
 ## Technical Projects
-#### ShareBnb - Airbnb clone - Full Stack - React | Flask		  			Github FE | Github BE | Demo
+#### ShareBnb - Airbnb clone - Full Stack - React | Flask		  		|| [Github FE](https://github.com/meyburdj/sharebnb_front) | [Github BE](https://github.com/maltezc/ShareBnB-Backend) | Demo
 - Integrated RESTful API principles, authentication, and utilizing Amazon S3 as an image database.
 - Developed key features like messaging, item filtering, and a booking system.
 
-#### Jobly - Job board - Full Stack - React | Express | 90% Test Coverage					Github | Demo
+#### Jobly - Job board - Full Stack - React | Express | 90% Test Coverage					[Github FE](https://github.com/maltezc/react-jobly/tree/main/frontend) | [Github BE](https://github.com/dia-nguyen/express-jobly) | Demo
 - Created single-page-application frontend using React with protected routes.
 - Designed backend API following RESTful principles using express utilizing middleware and schemas.
 - Implemented authorization/authentication using JSON Web Tokes and encrypted passwords using BCrypt.
 
-#### Warbler - Twitter clone - Full Stack - Flask | Javascript | 90% Test Coverage				Github| Demo
+#### Warbler - Twitter clone - Full Stack - Flask | Javascript | 90% Test Coverage				[Github](https://github.com/maltezc/warbler) | Demo
 - Integrated authentication, authorization, and register functionality with Flask sessions, global variables, and local storage.
 - Utilized SQL-Alchemy for CRUD operations and dynamic querying in a many-to-many relational database.
 
